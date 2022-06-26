@@ -1,0 +1,13 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+a
+{
+font-size: 23px !important;
+width: 400px;
+border-radius: 30px !important;
+background-color: white;
+color: rgb(78, 112, 159) !important;
+}
